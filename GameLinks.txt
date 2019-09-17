@@ -1,9 +1,39 @@
 {
     "Items": [
-        {        "fileLink":"https://gdqpcw.bl.files.1drv.com/y4m1izdM0ww-XdOojDKby1876xa9xDVwnC93nRCjcqhPVOcg2vDBFfkx1P1jiKze9x_6eFnmnTyH3LAJYgvFI7mwgWdDL8ZUIkI3Z3Yrsa2J6R4IQ7nQcqmKhnSP1tc7m51dN_gaZuA9fXXayA8hp-wfwyJG0BF1uI-sDXyE0up8fyN0nx0owU_IgFeggkta0i90W4k3Qkif0WO9mU8piP0_3AQ1eKIGN098-UPs6nh154/Games.txt?download&psid=1",
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.animal.rescue.atv.trolly",
+            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
+            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
         },
         {
-            "fileLink": "https://gdqpcw.bl.files.1drv.com/y4m1izdM0ww-XdOojDKby1876xa9xDVwnC93nRCjcqhPVOcg2vDBFfkx1P1jiKze9x_6eFnmnTyH3LAJYgvFI7mwgWdDL8ZUIkI3Z3Yrsa2J6R4IQ7nQcqmKhnSP1tc7m51dN_gaZuA9fXXayA8hp-wfwyJG0BF1uI-sDXyE0up8fyN0nx0owU_IgFeggkta0i90W4k3Qkif0WO9mU8piP0_3AQ1eKIGN098-UPs6nh154/Games.txt?download&psid=1",
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
+            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
+        },
+        {
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
+            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
+        },
+        {
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
+            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
+        },
+        {
+            "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
+            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
         }
     ]
 }
