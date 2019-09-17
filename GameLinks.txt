@@ -13,6 +13,6 @@
           "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/CrossPromoUnderwaterFight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/CrossPromoUnderwaterFight/banner.jpg",
             "Native": "https://raw.githubusercontent.com/asadali3274/MyGames/master/CrossPromoUnderwaterFight/native.jpg"
-        }
+        },
     ]
 }
