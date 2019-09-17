@@ -2,14 +2,14 @@
     "Items": [
         {
             "GameId": "1",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.animal.rescue.atv.trolly",
-            "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
             "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
-            "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
+            "Native": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/native.jpg"
         },
         {
             "GameId": "2",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.heli.tourist.taxi",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.underwater.wrestling.championship.fight",
             "Interstitial": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/Interstitial.png?alt=media&token=3d450c5f-b307-4796-b31e-3fd385df6859",
             "Banner": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/banner.png?alt=media&token=5774b9af-4c61-4c2f-b9a5-81d71aceb429",
             "Native": "https://firebasestorage.googleapis.com/v0/b/one-stop-e0aab.appspot.com/o/native.png?alt=media&token=e5d84129-f122-433c-82a4-e1be3c0b310b"
