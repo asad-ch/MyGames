@@ -9,17 +9,10 @@
         },
         {
             "GameId": "2",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.destotechgames.underwater.wrestling.championship.fight",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/native.jpg"
-        },
-        {
-            "GameId": "3",
             "GameLink": "https://play.google.com/store/apps/details?id=com.galaxynationgames.bull.rampage.fight.sim",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/bullRampage.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/bullRampage.jpg",
-            "Native": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/bullRampage.jpg"
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/Interstial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/Banner.jpg",
+            "Native": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Bull%20Rampage/Native.jpg"
         }
     ]
 }
